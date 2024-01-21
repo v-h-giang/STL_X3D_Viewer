@@ -8,3 +8,10 @@ Compile by MSYS2 : (repeat this command 4 times if first time compile in your PC
 
 gfortran -static-libgfortran -static-libgcc -static-libstdc++ -O3 STL_X3D_viewer.f90 
 libX3DIO.f90 libstla_io.f90 libsdl2_fortranwraping.f90 -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer -lWs2_32 -lopengl32 -lglu32 -o STL_X3D_viewer
+
+How to use (in cmd): 
+STL_X3D_viewer sample.X3D 
+
+or 
+
+STL_X3D_viewer sample.stl 
