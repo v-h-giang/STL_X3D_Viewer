@@ -1,4 +1,4 @@
-A simple Fortran stl x3d viewr , can view 3D model of any stl or x3d file.
+A simple Fortran stl x3d viewer , can view 3D model of any stl or x3d file.
 
 Using : SDL2 , opengl 
 
