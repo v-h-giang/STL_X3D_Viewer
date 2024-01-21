@@ -1,4 +1,4 @@
-!!! readstl_opengl.f90
+!!!STL_X3D_viewer.f90
 ! Date    : 1-1-2022
 ! Author  : Vu Hoang Giang
 ! Mail    : hgiang.fukui@gmail.com
