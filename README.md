@@ -15,3 +15,6 @@ STL_X3D_viewer sample.X3D
 or 
 
 STL_X3D_viewer sample.stl 
+
+
+![Sample view ](https://github.com/v-h-giang/STL_X3D_Viewer/blob/main/test.png?raw=true)
