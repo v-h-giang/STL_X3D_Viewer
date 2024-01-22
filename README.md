@@ -2,11 +2,11 @@ A simple Fortran stl x3d viewer , can view 3D model of any stl or x3d file.
 
 Have 3 open source Fortran library to share here :
 
-     library for X3D model : libX3DIO.f90
+     library for X3D 3D model in/out : libX3DIO.f90
      
-     library for STL model : libstla_io.f90
+     library for STL 3D model in/out : libstla_io.f90
      
-     library for sdl2 all in one : libsdl2_fortranwraping.f90 
+     Fortran Interface for sdl2 all in one : libsdl2_fortranwraping.f90 
 
 Using : SDL2 , opengl , glu 
 
