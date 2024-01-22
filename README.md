@@ -8,7 +8,7 @@ Have 3 open source Fortran library to share here :
      
      library for sdl2 all in one : libsdl2_fortranwraping.f90 
 
-Using : SDL2 , opengl 
+Using : SDL2 , opengl , glu 
 
 ASDW button to rotate , or mouse scroll to zoom in/out
 
